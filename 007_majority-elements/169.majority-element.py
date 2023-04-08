@@ -6,7 +6,7 @@
 # @lc code=start
 class Solution:
     def majorityElement(self, nums:list) -> int:
-        return max(set(nums), s = nums.count)
+        return max(set(nums), key = nums.count)
 
               
 # @lc code=end
