@@ -15,7 +15,3 @@ class Solution:
         return new_list
 # @lc code=end
 
-# nums = [3,1,2,10,1]
-# sol = Solution()
-# single_num = sol.runningSum(nums)
-# print(single_num)
