@@ -22,7 +22,3 @@ class Solution:
         
 # @lc code=end
 
-# nums = [0,1,0,3,12]
-# sol = Solution()
-# single_num = sol.moveZeroes(nums)
-# print(single_num)
