@@ -14,8 +14,3 @@ class Solution:
         return len(nums)
 # @lc code=end
 
-nums = [1,3,5,6]
-target = 2
-sol = Solution()
-single_num = sol.searchInsert(nums, target)
-print(single_num)
