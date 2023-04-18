@@ -14,8 +14,3 @@ class Solution:
         return pascal
         
 # @lc code=end
-
-# num = 5
-# sol = Solution()
-# single_num = sol.generate(num)
-# print(single_num)
