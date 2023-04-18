@@ -10,8 +10,3 @@ class Solution:
         return [candies[n] + extraCandies >= max(candies) for n in range(len(candies))] 
 # @lc code=end
 
-# candies = [2,3,5,1,3]
-# extraCandies = 3
-# sol = Solution()
-# single_num = sol.kidsWithCandies(candies, extraCandies)
-# print(single_num)
