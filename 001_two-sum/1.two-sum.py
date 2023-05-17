@@ -6,7 +6,7 @@
 
 # @lc code=start
 class Solution:
-    def twoSum(self, nums: List[int], target: int) -> List[int]:
+    def twoSum(self, nums, target: int) :
         d = {}
         for i, j in enumerate(nums):
             r = target - j
